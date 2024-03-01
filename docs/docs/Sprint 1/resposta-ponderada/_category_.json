@@ -1,0 +1,8 @@
+{
+  "label": "Resposta da Ponderada",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Aqui estão seções que respondem cada um dos questionamentos levantados na ponderada"
+  }
+}

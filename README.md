@@ -1,2 +1,0 @@
-# ponderada-ux-semana4
- 
